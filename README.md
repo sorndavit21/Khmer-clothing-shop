@@ -1,4 +1,3 @@
-# Khmer-clothing-shop
 <!doctype html>
 <html>
 <head>
